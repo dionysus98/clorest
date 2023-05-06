@@ -3,10 +3,18 @@
   "displayName": "clorest",
   "description": "Another dark theme based on forestnight colorscheme [Works well for Clojure]",
   "version": "0.0.1",
-  "repository": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dionysus98/clorest.git"
+  },
   "engines": {
     "vscode": "^1.78.0"
   },
+  "author": {
+    "name": "Avinash Sridhar",
+    "url": "https://github.com/dionysus98"
+  },
+  "license": "MIT",
   "categories": [
     "Themes"
   ],
