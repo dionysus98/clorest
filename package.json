@@ -2,7 +2,7 @@
   "name": "clorest",
   "displayName": "clorest",
   "description": "Another dark theme based on forestnight colorscheme [Works well for Clojure]",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "icon": "./logo.png",
   "repository": {
     "type": "git",
